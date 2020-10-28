@@ -13,6 +13,7 @@ Si vous voulez jetter un oeil au 📂 [repository GitHub](https://github.com/Dad
 
 ## Pour en apprendre plus sur moi : 
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-alexandre-jungblut-94671511a/)
+- 🌐 [Ma page perso](https://dadagis.github.io/Daj-profile/)
 
 ## 📈 Stats : 
 
