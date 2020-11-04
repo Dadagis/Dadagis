@@ -1,5 +1,5 @@
 # Salut ! Bienvenue sur mon profil 👋 👨🏻‍💻
-### Je suis à la recherche d'un poste de développeur Full Stack junior,avec une préférence pour le Back-end
+### Je suis à la recherche d'un poste de développeur Full Stack junior, avec une préférence pour le Back-end
 ### J'ai principalement développé en Ruby on Rails
 #### Mais j'ai également des compétences en React & Node.js que j'essaie de pratiquer régulièrement
 
